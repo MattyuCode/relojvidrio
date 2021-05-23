@@ -1,3 +1,3 @@
-$                  Reloj Vidrio
+>                 Reloj Vidrio
 
 <img src="vidrio.png" alt="">
